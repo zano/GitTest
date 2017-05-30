@@ -10,6 +10,7 @@ namespace GitTest
     {
         public void Hello() {
             Console.WriteLine("Hello git!");
+            Console.WriteLine("Hello again");
         }
     }
 }
