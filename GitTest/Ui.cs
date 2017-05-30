@@ -12,6 +12,8 @@ namespace GitTest
             Console.WriteLine("Hello git!");
             Console.WriteLine("Hello again");
 
+            Console.WriteLine("New features");
+
             Console.WriteLine("Fixing a bug");
         }
     }
